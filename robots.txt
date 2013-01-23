@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://elguapo1611.github.com/elguapo1611/sitemap.xml 
